@@ -1,158 +1,43 @@
 ---
-title: Portfolio Project 3
-seo_title: Portfolio Project 3
-summary: Portfolio Project 3 is my third portfolio project.
+title: Robot Operational Control (ROC)
+seo_title: Robot Operational Control (ROC)
+summary: United Rentals contract project crafting a autonomous vehicle control app
 description: Portfolio Project 3 is my third portfolio project.
-slug: portfolio-project-3
-author: John Doe
+slug: project-roc
+author: Kevin Ulrich
 
 draft: false
-date: 2023-02-20T03:52:30-05:00
+date: 2024-02-13T23:09:02+0000
 lastmod: 
 expiryDate: 
 publishDate: 
 
-feature_image: 
+feature_image: roc.jpeg
 feature_image_alt: 
 
 project types: 
-    - Open Source
+    - Contract
+    - Consulting
 
 techstack:
-    - Hugo
     - HTML/CSS
+    - SQLite
     - JavaScript
-    - Netlify
-live_url: https://hugo-liftoff.netlify.app
-source_url: https://github.com/wjh18/hugo-liftoff
+    - Electron
+    - React
+    - Redux
+    - Material-UI
+    - OpenLayers
+    - GIS
+link: https://www.freshconsulting.com/work/united-rentals-robot-operational-control
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+# Robot Operational Control (ROC)
 
-## Headings
+## Summary
+In 2018 I had the pleasure of working on a project for United Rentals with Fresh Consulting. It was a desktop web app, intended to be run on tablets on-site in construction projects. It was an Electron web app with a SQLite backend, and a GraphQL interface between.
 
-The following HTML `<h2>`—`<h6>` elements represent five levels of section headings. `<h2>` is the highest section level you should use in markdown while `<h6>` is the lowest. `<h1>` should be reserved for the page title.
+## Details
+I worked on this project for a year. It was my first professional project out of college, and it was a blast! I got my hands dirty with React and Javascript for the first time. Many lessons learned and late nights as sometimes the work needed to get done but I wasn't quite up to snuff on some parts of software development. I had incredible mentors, team leads, and PMs on this project though, so everything always went smoothly.
 
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-## Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
-
-## Code Blocks
-
-### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-
-### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-### Code block with Hugo's internal highlight shortcode
-
-{{< highlight html >}}
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-* List item
-* Another item
-* And another item
-
-### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+The highlight of this project was going to Florida for a week to work on-site at a solar panel installation as they were building it. We tested the track loaders and used the software that I and my team were building in real time. The only downside was that it was over 100 degrees every day. We were in a small, old house for 12 hours a day, and throughout the day the AC was overcome to the point that by dinner it was almost the same temperature inside as outside.

@@ -6,7 +6,7 @@ description: Portfolio Project 1 is my first portfolio project.
 slug: portfolio-project-1
 author: John Doe
 
-draft: false
+draft: true
 date: 2019-02-20T03:52:30-05:00
 lastmod: 
 expiryDate: 

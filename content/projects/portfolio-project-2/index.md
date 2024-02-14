@@ -6,7 +6,7 @@ description: Portfolio Project 2 is my second portfolio project.
 slug: portfolio-project-2
 author: John Doe
 
-draft: false
+draft: true
 date: 2020-02-20T03:52:30-05:00
 lastmod: 
 expiryDate: 

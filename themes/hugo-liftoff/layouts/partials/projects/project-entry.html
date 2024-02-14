@@ -28,8 +28,11 @@
         {{- .Description -}}
       {{- end -}}
     </p>
-    {{ if or (.Params.live_url) (.Params.source_url) }}
+    {{ if or (.Params.live_url) (.Params.source_url) (.Params.link) }}
       <div class="btn-group">
+        {{ with .Params.link }}
+          <a class="btn-primary" href="{{ . }}" target="_blank">Link</a>
+        {{ end }}
         {{ with .Params.live_url }}
           <a class="btn-primary" href="{{ . }}" target="_blank">Live</a>
         {{ end }}
