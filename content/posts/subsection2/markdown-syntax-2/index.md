@@ -6,7 +6,7 @@ description: Sample article showcasing basic Markdown syntax and formatting for 
 slug: markdown-syntax-2
 author: John Doe
 
-draft: false
+draft: true
 date: 2020-11-19T21:21:46-05:00
 lastmod: 
 expiryDate: 

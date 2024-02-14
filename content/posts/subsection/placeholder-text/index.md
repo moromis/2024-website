@@ -6,7 +6,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 slug: placeholder-text
 author: John Doe
 
-draft: false
+draft: true
 date: 2020-11-18T21:21:46-05:00
 lastmod: 
 expiryDate: 

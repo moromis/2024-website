@@ -6,7 +6,7 @@ description: Guide to emoji usage in Hugo.
 slug: emoji-support
 author: John Doe
 
-draft: false
+draft: true
 date: 2020-11-17T21:21:46-05:00
 lastmod: 2020-11-18T21:21:46-05:00
 expiryDate: 
