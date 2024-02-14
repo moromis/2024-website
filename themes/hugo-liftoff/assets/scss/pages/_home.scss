@@ -26,7 +26,48 @@
   .hero-title {
     font-weight: 900;
     margin-top: 0;
+    margin-bottom: 0;
     @include font-size('xl');
+    display: inline;      
+  }
+
+  .names {
+    display: inline-flex;
+    flex-direction: column;
+
+    & .real-name{
+      border-radius: 8px;
+      margin-top: 0;
+    }
+
+    & .username {
+      color: var(--color-primary);
+      width: fit-content;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+  }
+
+  @keyframes strike{
+    0%   { width : 0; }
+    100% { width: 100%; }
+  }
+  .strike {
+    position: relative;
+  }
+  .strike::after {
+    content: ' ';
+    position: absolute;
+    top: calc(50% - 4px);
+    left: 0;
+    width: 100%;
+    height: 8px;
+    background-color: var(--color-primary);
+    animation-name: strike;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards; 
   }
 
   .hero-subtitle {

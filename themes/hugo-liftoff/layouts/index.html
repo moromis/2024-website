@@ -2,7 +2,11 @@
 <div class="container">
   <section class="section hero">
     <div class="hero-info">
-      <h1 class="hero-title">{{ .Title }}</h1>
+      <h1 class="hero-title">{{ .Title }} </h1>
+      <div class="names">
+        <h1 class="username strike">{{ .Site.Title }}</h1>
+        <h1 class="real-name">{{ .Params.realName }}</h1>
+      </div>
       {{ with .Params.subtitle }}
         <p class="hero-subtitle">{{. | markdownify}}</p>
       {{ end }}

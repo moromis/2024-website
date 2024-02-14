@@ -2,8 +2,11 @@
 // This file contains all application-wide Sass variables.
 // -----------------------------------------------------------------------------
 
+:root {
+  --color-primary: #4285F4;
+}
+
 :root, [data-theme="default"] {
-  --color-primary: rgb(18, 120, 175);
   --color-inline-code: hsl(0, 81%, 35%);
   
   /* color contrasts */
@@ -33,7 +36,6 @@
 }
 
 [data-theme="dark"] {
-  --color-primary: rgb(86, 184, 237);
   --color-inline-code: hsl(0, 81%, 70%);
   
   /* color contrasts */

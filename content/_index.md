@@ -1,5 +1,6 @@
 ---
-title: Hi! My name is Kevin Ulrich
+title: Hi! My name is
+realName: Kevin Ulrich
 subtitle: I'm a software engineer with 4 years of industry experience.
 seo_title: Moromis
 
