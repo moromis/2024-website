@@ -19,6 +19,8 @@ project types:
     - Contract
     - Consulting
 
+year: 2018
+
 techstack:
     - HTML/CSS
     - SQLite

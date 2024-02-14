@@ -6,6 +6,9 @@
         {{- .Title -}}
         <sup>{{ partial "general/label-drafts.html" . }}</sup>
       </h1>
+      <h4>
+        {{ .Params.year }}
+      </h4>
       <div class="project-list-meta">
         {{ with .Params.techstack }}
         {{ range . }}
