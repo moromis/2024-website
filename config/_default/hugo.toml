@@ -125,7 +125,7 @@ priority = 0.5
 
 [frontmatter]
 # Default frontmatter date settings
-date = ['date', 'publishDate', 'lastmod']
+date = ['lastmod', ':git', 'date', 'publishDate']
 expiryDate = ['expiryDate']
 lastmod = ['lastmod', ':git', 'date', 'publishDate']
 publishDate = ['publishDate', 'date']
