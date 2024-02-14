@@ -17,6 +17,35 @@
   }
 }
 
+.lfw {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+
+  .lfw-text {
+    width: fit-content;
+    margin: 0;
+    font-weight: 900;
+    @include font-size('xl');
+    transform: rotate(-5deg);
+    text-decoration: underline;
+
+    animation: 2s infinite alternate ease-in-out wobble;
+
+    @keyframes wobble {
+      from {
+        transform:  rotate(-5deg);
+        transform-origin: center;
+      }
+    
+      to {
+        transform:  rotate(5deg);
+        transform-origin: center;
+      }
+    }
+  }
+}
+
 .hero-info {
 
   @include respond-to('medium') {
