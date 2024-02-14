@@ -1,6 +1,6 @@
 ---
 title: Hi! My name is Kevin Ulrich
-subtitle: I'm a software engineer with 4 years of experience.
+subtitle: I'm a software engineer with 4 years of industry experience.
 seo_title: Moromis
 
 primary_cta_page: "about"
