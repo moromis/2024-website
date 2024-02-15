@@ -1,21 +1,21 @@
 ---
 type: about
 linktitle: About
-title: Hi, my name is Hugo.
+title: my name is Kevin Ulrich
 seo_title: About
 description: Learn more about my background and experience.
 ---
 
-You can customize the about page heading and disable social links if desired. The rest of the content can be added with markdown. Please see [Github](https://github.com/wjh18/hugo-liftoff) for a full list of features and documentation.
-
 ## Who am I?
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce sem augue, tristique luctus lobortis nec, cursus eu erat. Proin dictum vel enim a vestibulum.
+Since everyone's getting hyped about ChatGPT, here's my resume condensed into a few paragraphs:
 
-## My Experience
+> Kevin Ulrich is a dynamic software engineer with a background in full-stack development, data science, and analysis. With expertise in technologies like JavaScript and Python, and frameworks like React and Django, Kevin has played pivotal roles in developing critical solutions, including a cancer data visualization platform at the Icahn School of Medicine at Mount Sinai.
 
-Integer est purus, aliquam ac enim aliquet, viverra sodales mauris. Integer neque sapien, fermentum sit amet augue in, vulputate pellentesque turpis. Quisque eget blandit turpis, in semper lectus.
+> At his first job, with Fresh Consulting, Kevin demonstrated his versatility by seamlessly transitioning from junior to lead developer. He managed projects for Fortune 100 clients and drove efficiency through automation. His proactive approach to problem-solving and strong communication skills make him an asset to any team.
 
-## Learn More
+> With a solid foundation in computer science from the University of Washington, Bothell, Kevin is driven by a passion for innovation and continuous learning. His track record of success and adaptability make him an ideal candidate for challenging and impactful roles in software engineering.
 
-You can also link to [other pages]({{< ref "contact" >}}) in your markdown.
+## Contact me
+
+[Go here]({{< ref "contact" >}}) to hit me up.
