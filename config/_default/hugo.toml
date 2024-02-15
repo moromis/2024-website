@@ -39,9 +39,10 @@ contentDir = 'content'             # Default
 dataDir = 'data'                   # Default
 disableHugoGeneratorInject = false # Default
 disableLiveReload = false          # Default
+CDNJS = true
 
 # Use this theme as git submodule
-theme = 'hugo-liftoff'
+theme = ['hugo-liftoff', "hugo-easy-gallery"]
 # Or, use this theme as hugo module
 # [module]
 # [[module.imports]]
