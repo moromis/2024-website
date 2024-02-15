@@ -1,13 +1,9 @@
 ---
 title: Walnut Canyon
-author: Moromis
-type: post
+author: Kevin Ulrich
+
 date: 2013-06-25T05:39:48+00:00
 url: /2013/06/24/walnut-canyon/
-jabber_published:
-  - 1372138790
-publicize_twitter_user:
-  - KevinZUlrich
 categories:
   - blog
   - personal
@@ -15,14 +11,11 @@ categories:
 tags:
   - Arizona
   - Walnut Canyon
-  - personal
-  - diary
-  - blog
+feature_image: images/dscf0224.jpg
+summary: "2013 summer vacation: Walnut Canyon Nat'l Monument"
 
 ---
 {{< load-photoswipe >}}
-
-![](images/dscf0224.jpg)
 
 Monday &#8211; And a new Adventure! We went down to Walnut Canyon, a National Monument just a bit outside of Flagstaff. Going in, we accidentally went the &#8220;scenic route&#8221; and did some serious off-roading. Thank goodness it&#8217;s a rental car 🙂
 

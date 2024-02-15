@@ -1,15 +1,9 @@
 ---
 title: First Trip into the Grand Canyon
-author: Moromis
-type: post
+author: Kevin Ulrich
+
 date: 2013-06-29T08:11:21+00:00
 url: /2013/06/29/first-trip-into-the-grand-canyon/
-jabber_published:
-  - 1372493483
-publicize_twitter_user:
-  - KevinZUlrich
-publicize_reach:
-  - 'a:3:{s:7:"twitter";a:1:{i:3905214;i:5;}s:2:"fb";a:1:{i:3905212;i:12;}s:2:"wp";a:1:{i:0;i:2;}}'
 categories:
   - blog
   - personal
@@ -18,14 +12,11 @@ tags:
   - Arizona
   - Grand Canyon
   - hiking
-  - personal
-  - diary
-  - blog
+feature_image: images/dscf0316.jpg
+summary: "2013 summer vacation: the Grand Canyon"
 
 ---
 {{< load-photoswipe >}}
-
-![](images/dscf0316.jpg)
 
 Yesterday we took our first trip into the Grand Canyon. In the end it was neither too difficult nor too easy. But we&#8217;re not at the end yet. You have to start out with me, waking up at 8 to get prepared and arrive up at the rim at 11 a.m. The walk out to the rim was easy. I was prepared, with fresh socks (a second pair in my pack), sunglasses, a headlamp, and some food. And of course, I had water. About a gallon, to be exact. This was how much I had been told I needed, but would later find out was how much one needs to get to the BOTTOM &#8211; 5 and 1/2 miles more than we were going.
 

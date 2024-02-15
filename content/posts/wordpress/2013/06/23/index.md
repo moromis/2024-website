@@ -1,15 +1,9 @@
 ---
 title: Trip to Phoenix
-author: Moromis
-type: post
+author: Kevin Ulrich
+
 date: 2013-06-24T05:24:07+00:00
 url: /2013/06/23/trip-to-phoenix/
-jabber_published:
-  - 1372051448
-publicize_twitter_user:
-  - KevinZUlrich
-tagazine-media:
-  - 'a:7:{s:7:"primary";s:71:"http://moromis.wpcomstaging.com/wp-content/uploads/2013/06/dscf0133.jpg";s:6:"images";a:1:{s:55:"http://moromis.files.wordpress.com/2013/06/dscf0133.jpg";a:6:{s:8:"file_url";s:71:"http://moromis.wpcomstaging.com/wp-content/uploads/2013/06/dscf0133.jpg";s:5:"width";i:4608;s:6:"height";i:3456;s:4:"type";s:5:"image";s:4:"area";i:15925248;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:1;s:6:"author";s:7:"7740354";s:7:"blog_id";s:8:"11405300";s:9:"mod_stamp";s:19:"2013-06-24 05:51:29";}'
 categories:
   - blog
   - personal
@@ -18,12 +12,10 @@ tags:
   - art
   - Phoenix
   - Arizona
-  - personal
-  - diary
-  - blog
+feature_image: images/dscf0133.jpg
+summary: "2013 summer vacation: visiting Phoenix"
 
 ---
-![](images/dscf0133.jpg)
 
 안녕하세요? No photos 'cause I didn&#8217;t bring my camera &#8211; but here goes.
 

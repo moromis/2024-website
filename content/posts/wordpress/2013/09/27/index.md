@@ -1,15 +1,10 @@
 ---
-title: A Hike in the Tetons Part 1
-author: Moromis
-type: post
+title: A Hike in the Tetons
+summary: Hiking in the Tetons with Caleb and Sarah, September 2013
+author: Kevin Ulrich
+
 date: 2013-09-27T08:14:50+00:00
 url: /2013/09/27/a-hike-in-the-tetons-part-1/
-jabber_published:
-  - 1380269695
-email_notification:
-  - 1380269697
-publicize_twitter_user:
-  - KevinZUlrich
 categories:
   - blog
   - personal
@@ -20,14 +15,10 @@ tags:
   - Sarah
   - Tetons
   - Wyoming
-  - personal
-  - diary
-  - blog
+feature_image: images/dscf0699.jpg
 
 ---
 {{< load-photoswipe >}}
-
-![](images/dscf0699.jpg)
 
 Just over a week ago, I was in Tetons National Park hiking. My older brother and sister had decided to accompany a family friend as she visited her alma mater, Sarah to revisit the Tetons, and Caleb for the hiking. As for myself, I was mainly looking for some vacation time before summer ended. We planned out a 10 day trip, leaving the 12th and arriving back in Washington on the 21st. When we first arrived, I had to tie up some loose ends concerning work, and then I was free to go hiking. So on Sunday, the 15th, we set out a bit after noon on a 4-day 3-night hike through a good 36 miles of the Teton mountain range.
 

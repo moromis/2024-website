@@ -1,23 +1,22 @@
 ---
-title: 2013 Summer Vacation – Part 1
-author: Moromis
-type: post
+title: 2013 Summer Vacation
 date: 2013-06-22T06:05:34+00:00
+last_mod: 2013-06-22T06:05:34+00:00
 url: /2013/06/21/2013-summer-vacation-part-1/
+slug: 2013-summer-vacation
+author: Kevin Ulrich
 categories:
   - blog
   - personal
   - wordpress
 tags:
   - Arizona
-  - personal
-  - diary
-  - blog
+  - vacation
+feature_image: images/dscf0036.jpg
+summary: An introduction to my summer in Arizona, after graduating High School
 
 ---
 {{< load-photoswipe >}}
-
-![](images/dscf0036.jpg)
 
 I actually arrived in Arizona on the 15th, so I&#8217;m just finishing up a week here, but I&#8217;m just getting around to starting this blog off now. It&#8217;s crazy to believe that I graduated exactly a week before I left. There&#8217;s so many options &#8211; paths in life &#8211; available to me now that it&#8217;s almost too hard to choose. Thankfully, I already have this job at the Grand Canyon lined up, and unless something goes wrong, I&#8217;ll be kept busy till October. I&#8217;m also thinking about applying to one or two ski resorts for the winter (definitely Snowbird), and that would probably fill another three months. I would like to be home for Christmas, though, and I&#8217;ll need to start applying to colleges after that.
 
