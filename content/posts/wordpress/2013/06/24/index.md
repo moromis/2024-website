@@ -26,11 +26,11 @@ On that same thought, I&#8217;ll probably take up running as soon as I start wor
 Well, that&#8217;s it for today, enjoy the pictures of the hike, they express it much better than my words can.
 
 {{< gallery caption-position="bottom" >}}
-  {{< figure src="wordpress/2013-06/24/dscf0208.jpg" caption="And what a view" >}}
-  {{< figure src="wordpress/2013-06/24/dscf0211.jpg" caption="The main cliff dwellings are built into a tall hill surrounded by water which is called an island" >}}
-  {{< figure src="wordpress/2013-06/24/dscf0216.jpg" caption="This is a view from the island towards the facing hill. You can see some cliff dwellings a bit down from the top." >}}
-  {{< figure src="wordpress/2013-06/24/dscf0227.jpg" caption="A cliff wall with a bit of reconstructed wall. Most of the walls of the dwellings in the cliff are reconstructed rather than original." >}}
-  {{< figure src="wordpress/2013-06/24/dscf0239.jpg" caption="The enclaves in the cliff were actually just our size. You can see the vent for the smoke (again, reconstructed as they think it was) above Sarah's head" >}}
-  {{< figure src="wordpress/2013-06/24/dscf0241.jpg" caption="Dad and his house: Actually, Dad claimed another house on a cliff just to the east of the visitor's center" >}}
-  {{< figure src="wordpress/2013-06/24/dscf0247.jpg" caption="Adam, at the end of our hike, back up at the visitor's center" >}}
+  {{< figure src="gallery/dscf0208.jpg" caption="And what a view" >}}
+  {{< figure src="gallery/dscf0211.jpg" caption="The main cliff dwellings are built into a tall hill surrounded by water which is called an island" >}}
+  {{< figure src="gallery/dscf0216.jpg" caption="This is a view from the island towards the facing hill. You can see some cliff dwellings a bit down from the top." >}}
+  {{< figure src="gallery/dscf0227.jpg" caption="A cliff wall with a bit of reconstructed wall. Most of the walls of the dwellings in the cliff are reconstructed rather than original." >}}
+  {{< figure src="gallery/dscf0239.jpg" caption="The enclaves in the cliff were actually just our size. You can see the vent for the smoke (again, reconstructed as they think it was) above Sarah's head" >}}
+  {{< figure src="gallery/dscf0241.jpg" caption="Dad and his house: Actually, Dad claimed another house on a cliff just to the east of the visitor's center" >}}
+  {{< figure src="gallery/dscf0247.jpg" caption="Adam, at the end of our hike, back up at the visitor's center" >}}
 {{< /gallery >}}

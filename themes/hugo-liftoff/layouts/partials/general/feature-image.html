@@ -4,10 +4,12 @@
 {{ $feature_image := $images.GetMatch "*feature*" -}}
 {{ $img_src := "" }}
 {{ with $custom_image }}
-  {{ $img_src = .RelPermalink }}
+  {{ $img := .Resize "800x" }}
+  {{ $img_src = $img.RelPermalink }}
 {{ else }}
   {{ with $feature_image }}
-    {{ $img_src = .RelPermalink }}
+    {{ $img := .Resize "800x" }}
+    {{ $img_src = $img.RelPermalink }}
   {{ end }}
 {{ end }}
 {{ if $img_src }}

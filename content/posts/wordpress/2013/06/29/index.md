@@ -38,15 +38,15 @@ To conclude this tiring, but not too hard journey, here&#8217;s some pictures:
 
 
 {{< gallery caption-position="bottom" >}}
-  {{< figure src="wordpress/2013-06/29/dscf0271.jpg" caption="It doesn’t look very far. For scale though, see the person on the trail to the left?" >}}
-  {{< figure src="wordpress/2013-06/29/dscf0310.jpg" caption="Begging his way through his short, miserable life" >}}
-  {{< figure src="wordpress/2013-06/29/dscf0272.jpg" caption="Off they go, down down down" >}}
-  {{< figure src="wordpress/2013-06/29/dscf0293.jpg" caption="Up at the top, when I still cared about taking pictures like these" >}}
-  {{< figure src="wordpress/2013-06/29/dscf0323.jpg" caption="Some butte: Named after some Hindu god" >}}
-  {{< figure src="wordpress/2013-06/29/dscf0371.jpg" caption="Shade at the Bottom: This is the large aspen tree in Indian Springs" >}}
-  {{< figure src="wordpress/2013-06/29/dscf0386.jpg" caption="Adam in Indian Gardens: Resting in the shade" >}}
-  {{< figure src="wordpress/2013-06/29/dscf0389.jpg" caption="Indian Springs Deer" >}}
-  {{< figure src="wordpress/2013-06/29/dscf0409.jpg" caption="Ach, a Wee Bahd: I was trying to get a good photograph of any old bird the whole way up, this is the best I could do." >}}
-  {{< figure src="wordpress/2013-06/29/dscf0418.jpg" caption="The sun sets over the Grand Canyon: I realized about at this point that there was a HDR setting on my camera." >}}
-  {{< figure src="wordpress/2013-06/29/dscf0448.jpg" caption="Almost to the Top: This is one of the last photos I took." >}}
+  {{< figure src="gallery/dscf0271.jpg" caption="It doesn’t look very far. For scale though, see the person on the trail to the left?" >}}
+  {{< figure src="gallery/dscf0310.jpg" caption="Begging his way through his short, miserable life" >}}
+  {{< figure src="gallery/dscf0272.jpg" caption="Off they go, down down down" >}}
+  {{< figure src="gallery/dscf0293.jpg" caption="Up at the top, when I still cared about taking pictures like these" >}}
+  {{< figure src="gallery/dscf0323.jpg" caption="Some butte: Named after some Hindu god" >}}
+  {{< figure src="gallery/dscf0371.jpg" caption="Shade at the Bottom: This is the large aspen tree in Indian Springs" >}}
+  {{< figure src="gallery/dscf0386.jpg" caption="Adam in Indian Gardens: Resting in the shade" >}}
+  {{< figure src="gallery/dscf0389.jpg" caption="Indian Springs Deer" >}}
+  {{< figure src="gallery/dscf0409.jpg" caption="Ach, a Wee Bahd: I was trying to get a good photograph of any old bird the whole way up, this is the best I could do." >}}
+  {{< figure src="gallery/dscf0418.jpg" caption="The sun sets over the Grand Canyon: I realized about at this point that there was a HDR setting on my camera." >}}
+  {{< figure src="gallery/dscf0448.jpg" caption="Almost to the Top: This is one of the last photos I took." >}}
 {{< /gallery >}}

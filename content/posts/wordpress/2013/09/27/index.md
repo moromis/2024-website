@@ -39,8 +39,8 @@ Every time we went up, I hoped and prayed that we would keep the elevation we we
 As we crossed the Basin, a thunderstorm began to flow in from the east. we stopped for a short while next to the western slope of the Basin and put a tarp over our packs in expectation of the storm. It seemed to skirt our location, and so we decided to go the extra distance and climb up the mountain to get to the next camping spot, Sunset Lake. It was an arduous hike up the side of the mountain after a full day of hiking, but we managed to get to the lake in a fairly good clip, even though I was slightly delirious by the time we arrived. We didn&#8217;t even have time to set up our tents before a storm rolled in from some direction, pelting us with hail and rain, and we all huddled under our individual tarps with our packs to wait it out. As soon as it passed, we quickly set up a combined camp with our three tarps stretched over us, Sarah and I sleeping side by side in our hammocks and Caleb directly beneath us. That night, we cooked a few packets of cheap ramen, and slept with hail occasionally coming down and great gusts of wind blowing angrily at our camp.
 
 {{< gallery caption-position="bottom" >}}
-  {{< figure src="wordpress/2013-09/27/dscf0698.jpg" caption="Filtering water: Keeps you from taking the water you drink for granted" >}}
-  {{< figure src="wordpress/2013-09/27/dscf0691.jpg" caption="Firing up the stove" >}}
-  {{< figure src="wordpress/2013-09/27/dscf0696.jpg" caption="Our gear: I slept where the far sleeping bag is, between the trees it’s between, and Sarah was slung horizontally where her pile of gear is." >}}
-  {{< figure src="wordpress/2013-09/27/dscf0697.jpg" caption="My view waking up" >}}
+  {{< figure src="gallery/dscf0698.jpg" caption="Filtering water: Keeps you from taking the water you drink for granted" >}}
+  {{< figure src="gallery/dscf0691.jpg" caption="Firing up the stove" >}}
+  {{< figure src="gallery/dscf0696.jpg" caption="Our gear: I slept where the far sleeping bag is, between the trees it’s between, and Sarah was slung horizontally where her pile of gear is." >}}
+  {{< figure src="gallery/dscf0697.jpg" caption="My view waking up" >}}
 {{< /gallery >}}

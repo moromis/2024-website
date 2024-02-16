@@ -25,11 +25,11 @@ Since I arrived, I&#8217;ve gone up to Snowbowl, Flagstaff&#8217;s ski resort/pa
 For graduation I got a new camera, which, though it&#8217;s a Costco camera, it&#8217;s better than any camera I&#8217;ve ever seen/had. Have some photos:
 
 {{< gallery caption-position="bottom" >}}
-  {{< figure src="wordpress/2013-06/21/dscf0057.jpg" caption="Mah dashing hat" >}}
-  {{< figure src="wordpress/2013-06/21/dscf0128.jpg" caption="A restaurant we went out to where all the waiters took turns performing Broadway, jazz, and 50’s and 60’s hits" >}}
-  {{< figure src="wordpress/2013-06/21/dscf0150.jpg" caption="A horny toad we found in a lower overlook at Snowbowl" >}}
-  {{< figure src="wordpress/2013-06/21/dscf0156.jpg" caption="Dad petting the horny toad to placate it" >}}
-  {{< figure src="wordpress/2013-06/21/dscf0169.jpg" caption="The view at the top of the lift at Snowbowl" >}}
+  {{< figure src="gallery/dscf0057.jpg" caption="Mah dashing hat" >}}
+  {{< figure src="gallery/dscf0128.jpg" caption="A restaurant we went out to where all the waiters took turns performing Broadway, jazz, and 50’s and 60’s hits" >}}
+  {{< figure src="gallery/dscf0150.jpg" caption="A horny toad we found in a lower overlook at Snowbowl" >}}
+  {{< figure src="gallery/dscf0156.jpg" caption="Dad petting the horny toad to placate it" >}}
+  {{< figure src="gallery/dscf0169.jpg" caption="The view at the top of the lift at Snowbowl" >}}
 {{< /gallery >}}
 
 And here&#8217;s some random stats, cause I like stuff like that.  
