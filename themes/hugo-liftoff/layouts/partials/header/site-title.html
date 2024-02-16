@@ -1,0 +1,20 @@
+<script src="{{ "/js/letterCountdown.js" }}"></script>
+
+{{/* https://www.w3schools.com/howto/howto_css_flip_card.asp */}}
+<div class="logo-container">
+    <a class="logo" href="{{ .Site.BaseURL }}">
+        {{ range seq (.Site.Title | len) }}
+        <div class="flip-card">
+            <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <p id="site-title-letter-{{ . }}">{{ substr $.Site.Title (sub . 1) 1 }}</p>
+                </div>
+                <div class="flip-card-back">
+                    <p id="site-title-letter-{{ . }}">{{ substr $.Site.Title (sub . 1) 1 }}</p>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </a>
+    <a class="help" onclick="turnOffLetterCountdown()">please god make it stop</a>
+</div>
