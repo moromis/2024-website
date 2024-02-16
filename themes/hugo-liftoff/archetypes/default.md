@@ -8,6 +8,6 @@ author: {{ .Site.Params.author }}
 draft: true
 date: {{ .Date }}
 
-newsletter: true
+
 ---
 

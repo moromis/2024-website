@@ -17,7 +17,6 @@ buildExpired = false           # Default
 buildFuture = false            # Default
 canonifyURLs = false           # Default
 defaultContentLanguage = 'en'  # Default
-disableAliases = true          # Set to true if using server (Netlify, .htaccess) for redirects instead of Hugo
 disableKinds = []              # Default
 enableEmoji = true             # Use Emojis in content
 enableGitInfo = true           # Default, enable to use git for lastmod (can be overwritten in frontmatter)
