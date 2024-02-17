@@ -28,6 +28,7 @@ function getFontsMinusCurrent(currentFont) {
 }
 
 let timerId = null;
+let lastChanged = -1;
 
 // Update the count down every 1 second
 const turnOnLetterCountdown = () => {
@@ -38,6 +39,14 @@ const turnOnLetterCountdown = () => {
     }
     timerId = setInterval(function () {
       const randomInt = getRandomInt(1, 8);
+      if (randomInt == lastChanged) {
+        if (randomInt <= 8 && randomInt > 1) {
+          randomInt -= 1;
+        } else {
+          randomInt += 1;
+        }
+      }
+      lastChanged = randomInt;
       const rotation = getRandomInt(-10, 10);
       const randomLetters = document.querySelectorAll(
         `[id=site-title-letter-${randomInt}]`
