@@ -27,32 +27,47 @@ function getFontsMinusCurrent(currentFont) {
   return modifiedFontsArray;
 }
 
+let timerId = null;
+
 // Update the count down every 1 second
-const timerId = setInterval(function () {
-  const randomInt = getRandomInt(1, 8);
-  const rotation = getRandomInt(-10, 10);
-  const randomLetters = document.querySelectorAll(
-    `[id=site-title-letter-${randomInt}]`
-  );
-  randomLetters[1].style.rotate = `${rotation}deg`;
+const turnOnLetterCountdown = () => {
+  if (timerId == null) {
+    const helpText = document.getElementById("help");
+    if (helpText) {
+      helpText.innerText = "please god make it stop";
+    }
+    timerId = setInterval(function () {
+      const randomInt = getRandomInt(1, 8);
+      const rotation = getRandomInt(-10, 10);
+      const randomLetters = document.querySelectorAll(
+        `[id=site-title-letter-${randomInt}]`
+      );
+      randomLetters[1].style.rotate = `${rotation}deg`;
 
-  const flipCard = randomLetters[0].parentElement.parentElement;
-  const fontsToChooseFrom = getFontsMinusCurrent(flipCard.style.fontFamily);
-  const randomFont =
-    fontsToChooseFrom[Math.floor(Math.random() * fontsToChooseFrom.length)];
-  flipCard.style.fontFamily = randomFont;
+      const flipCard = randomLetters[0].parentElement.parentElement;
+      const fontsToChooseFrom = getFontsMinusCurrent(flipCard.style.fontFamily);
+      const randomFont =
+        fontsToChooseFrom[Math.floor(Math.random() * fontsToChooseFrom.length)];
+      flipCard.style.fontFamily = randomFont;
 
-  if (flipCard.classList.contains("flipped")) {
-    flipCard.classList.remove("flipped");
-    flipCard.classList.add("unflipped");
-  } else {
-    flipCard.classList.add("flipped");
-    flipCard.classList.remove("unflipped");
+      if (flipCard.classList.contains("flipped")) {
+        flipCard.classList.remove("flipped");
+        flipCard.classList.add("unflipped");
+      } else {
+        flipCard.classList.add("flipped");
+        flipCard.classList.remove("unflipped");
+      }
+    }, 3000);
   }
-}, 3000);
+};
 
 const turnOffLetterCountdown = () => {
   clearInterval(timerId);
+  timerId = null;
+  const helpText = document.getElementById("help");
+  helpText.innerText = "please god make it... start?";
+  helpText.setAttribute("onClick", "turnOnLetterCountdown()");
+  console.log("helpText", helpText);
   for (i = 1; i < 8; i++) {
     const randomLetters = document.querySelectorAll(
       `[id=site-title-letter-${i}]`
@@ -64,3 +79,5 @@ const turnOffLetterCountdown = () => {
     flipCardInner.classList.remove("unflipped");
   }
 };
+
+turnOnLetterCountdown();
