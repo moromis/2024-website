@@ -10,6 +10,8 @@ tags:
   - JavaScript
   - Discord
   - bot
+  - dayjs
+  - JSON
 summary: "Writing a Discord Bot for the classic game of tag"
 
 ---
